@@ -1,512 +1,1380 @@
-{"companyDetails":[
-  {
-    companyName: 'synthesize front-end lifetime value',
-    companyLogo: 'https://loremflickr.com/640/480?lock=5822999940825088',
-    companyEmail: 'Cayla.Collier@yahoo.com',
-    companyHeadquarters: { city: 'New Dorriston', state: 'Texas', country: 'Turkey' },
-    companySize: 1869,
-    defaultCurrency: 'SEK',
-    industry: 'Computers'
-  },
-  {
-    companyName: 'optimize integrated convergence',
-    companyLogo: 'https://picsum.photos/seed/VnzTWGj8EL/640/480',
-    companyEmail: 'Devante_Frami@hotmail.com',
-    companyHeadquarters: {
-      city: 'South Loren',
-      state: 'Tennessee',
-      country: 'American Samoa'
+{
+  "companyDetails": [
+    {
+      "companyName": "synthesize front-end lifetime value",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5822999940825088",
+      "companyEmail": "Cayla.Collier@yahoo.com",
+      "companyHeadquarters": {
+        "city": "New Dorriston",
+        "state": "Texas",
+        "country": "Turkey"
+      },
+      "companySize": 1869,
+      "defaultCurrency": "SEK",
+      "industry": "Computers"
     },
-    companySize: 8428,
-    defaultCurrency: 'ZAR',
-    industry: 'Tools'
-  },
-  {
-    companyName: 'revolutionize one-to-one systems',
-    companyLogo: 'https://loremflickr.com/640/480?lock=189903824486400',
-    companyEmail: 'Margarette_Leuschke84@gmail.com',
-    companyHeadquarters: { city: 'Yadiraborough', state: 'Wisconsin', country: 'Burundi' },
-    companySize: 9622,
-    defaultCurrency: 'PLN',
-    industry: 'Books'
-  },
-  {
-    companyName: 'redefine mission-critical paradigms',
-    companyLogo: 'https://loremflickr.com/640/480?lock=4487442847498240',
-    companyEmail: 'Kailee.Sporer29@gmail.com',
-    companyHeadquarters: { city: 'Wuckertcester', state: 'Hawaii', country: 'Austria' },
-    companySize: 9991,
-    defaultCurrency: 'GIP',
-    industry: 'Beauty'
-  },
-  {
-    companyName: 'disintermediate scalable networks',
-    companyLogo: 'https://picsum.photos/seed/vEexli/640/480',
-    companyEmail: 'Lucile.Erdman@yahoo.com',
-    companyHeadquarters: { city: 'Denisfield', state: 'Washington', country: 'Bahrain' },
-    companySize: 4614,
-    defaultCurrency: 'BSD',
-    industry: 'Beauty'
-  },
-  {
-    companyName: 'incentivize magnetic functionalities',
-    companyLogo: 'https://loremflickr.com/640/480?lock=6178128779018240',
-    companyEmail: 'Kenna_Haag76@gmail.com',
-    companyHeadquarters: { city: 'Anderson', state: 'Hawaii', country: 'Kiribati' },
-    companySize: 5619,
-    defaultCurrency: 'BRL',
-    industry: 'Outdoors'
-  },
-  {
-    companyName: 'repurpose cross-media mindshare',
-    companyLogo: 'https://picsum.photos/seed/I9SxShlma/640/480',
-    companyEmail: 'Nova10@hotmail.com',
-    companyHeadquarters: { city: 'New Bricefield', state: 'Virginia', country: 'Liberia' },
-    companySize: 5130,
-    defaultCurrency: 'BWP',
-    industry: 'Computers'
-  },
-  {
-    companyName: 'optimize impactful initiatives',
-    companyLogo: 'https://loremflickr.com/640/480?lock=8564363749228544',
-    companyEmail: 'Emilie_Jacobs-Bosco@gmail.com',
-    companyHeadquarters: { city: 'Palm Coast', state: 'Texas', country: 'Belize' },
-    companySize: 7788,
-    defaultCurrency: 'THB',
-    industry: 'Baby'
-  },
-  {
-    companyName: 'seize 24/365 mindshare',
-    companyLogo: 'https://picsum.photos/seed/eAxEmSj3Q9/640/480',
-    companyEmail: 'Mitchell13@yahoo.com',
-    companyHeadquarters: { city: 'Hermannmouth', state: 'Kansas', country: 'Slovakia' },
-    companySize: 5511,
-    defaultCurrency: 'UGX',
-    industry: 'Home'
-  },
-  {
-    companyName: 'reinvent strategic technologies',
-    companyLogo: 'https://loremflickr.com/640/480?lock=8235763938361344',
-    companyEmail: 'Montana.Considine@hotmail.com',
-    companyHeadquarters: {
-      city: 'Palm Desert',
-      state: 'Virginia',
-      country: 'Holy See (Vatican City State)'
+    {
+      "companyName": "optimize integrated convergence",
+      "companyLogo": "https://picsum.photos/seed/VnzTWGj8EL/640/480",
+      "companyEmail": "Devante_Frami@hotmail.com",
+      "companyHeadquarters": {
+        "city": "South Loren",
+        "state": "Tennessee",
+        "country": "American Samoa"
+      },
+      "companySize": 8428,
+      "defaultCurrency": "ZAR",
+      "industry": "Tools"
     },
-    companySize: 8441,
-    defaultCurrency: 'FKP',
-    industry: 'Movies'
-  },
-  {
-    companyName: 'grow strategic solutions',
-    companyLogo: 'https://loremflickr.com/640/480?lock=490638021754880',
-    companyEmail: 'Simeon_Weimann@gmail.com',
-    companyHeadquarters: { city: 'Wisokychester', state: 'Georgia', country: 'Hong Kong' },
-    companySize: 8844,
-    defaultCurrency: 'RSD',
-    industry: 'Industrial'
-  },
-  {
-    companyName: 'evolve frictionless platforms',
-    companyLogo: 'https://loremflickr.com/640/480?lock=5179336061616128',
-    companyEmail: 'Adolph_Jones@yahoo.com',
-    companyHeadquarters: {
-      city: 'Bogisichhaven',
-      state: 'New Hampshire',
-      country: 'New Caledonia'
+    {
+      "companyName": "revolutionize one-to-one systems",
+      "companyLogo": "https://loremflickr.com/640/480?lock=189903824486400",
+      "companyEmail": "Margarette_Leuschke84@gmail.com",
+      "companyHeadquarters": {
+        "city": "Yadiraborough",
+        "state": "Wisconsin",
+        "country": "Burundi"
+      },
+      "companySize": 9622,
+      "defaultCurrency": "PLN",
+      "industry": "Books"
     },
-    companySize: 9433,
-    defaultCurrency: 'BND',
-    industry: 'Health'
-  },
-  {
-    companyName: 'mesh bricks-and-clicks metrics',
-    companyLogo: 'https://loremflickr.com/640/480?lock=9002262890283008',
-    companyEmail: 'Felix_Von@yahoo.com',
-    companyHeadquarters: { city: 'Port Maximilian', state: 'Hawaii', country: 'Zambia' },
-    companySize: 293,
-    defaultCurrency: 'ETB',
-    industry: 'Automotive'
-  },
-  {
-    companyName: 'monetize web-enabled e-business',
-    companyLogo: 'https://loremflickr.com/640/480?lock=6048109461241856',
-    companyEmail: 'Karl26@hotmail.com',
-    companyHeadquarters: {
-      city: 'Port Electatown',
-      state: 'Missouri',
-      country: 'Saint Martin'
+    {
+      "companyName": "redefine mission-critical paradigms",
+      "companyLogo": "https://loremflickr.com/640/480?lock=4487442847498240",
+      "companyEmail": "Kailee.Sporer29@gmail.com",
+      "companyHeadquarters": {
+        "city": "Wuckertcester",
+        "state": "Hawaii",
+        "country": "Austria"
+      },
+      "companySize": 9991,
+      "defaultCurrency": "GIP",
+      "industry": "Beauty"
     },
-    companySize: 9204,
-    defaultCurrency: 'BAM',
-    industry: 'Toys'
-  },
-  {
-    companyName: 'reintermediate compelling architectures',
-    companyLogo: 'https://loremflickr.com/640/480?lock=1252275804700672',
-    companyEmail: 'Keon.Pfannerstill@gmail.com',
-    companyHeadquarters: {
-      city: 'Patrickshire',
-      state: 'Missouri',
-      country: 'Kyrgyz Republic'
+    {
+      "companyName": "disintermediate scalable networks",
+      "companyLogo": "https://picsum.photos/seed/vEexli/640/480",
+      "companyEmail": "Lucile.Erdman@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Denisfield",
+        "state": "Washington",
+        "country": "Bahrain"
+      },
+      "companySize": 4614,
+      "defaultCurrency": "BSD",
+      "industry": "Beauty"
     },
-    companySize: 6958,
-    defaultCurrency: 'MRU',
-    industry: 'Baby'
-  },
-  {
-    companyName: 'revolutionize transparent experiences',
-    companyLogo: 'https://picsum.photos/seed/OWv5p/640/480',
-    companyEmail: 'Marco_Bosco@yahoo.com',
-    companyHeadquarters: { city: 'South Owen', state: 'Utah', country: 'Madagascar' },
-    companySize: 8018,
-    defaultCurrency: 'UGX',
-    industry: 'Kids'
-  },
-  {
-    companyName: 'integrate compelling metrics',
-    companyLogo: 'https://picsum.photos/seed/m9ftO/640/480',
-    companyEmail: 'Jorge23@gmail.com',
-    companyHeadquarters: { city: 'East Abraham', state: 'Michigan', country: 'Martinique' },
-    companySize: 1811,
-    defaultCurrency: 'MXN',
-    industry: 'Tools'
-  },
-  {
-    companyName: 'maximize dynamic architectures',
-    companyLogo: 'https://loremflickr.com/640/480?lock=633491578421248',
-    companyEmail: 'Rahsaan.Nitzsche6@yahoo.com',
-    companyHeadquarters: { city: 'Hamillland', state: 'Iowa', country: 'Bhutan' },
-    companySize: 6254,
-    defaultCurrency: 'RUB',
-    industry: 'Automotive'
-  },
-  {
-    companyName: 'exploit viral solutions',
-    companyLogo: 'https://loremflickr.com/640/480?lock=4903559613120512',
-    companyEmail: 'Sonia_Kunze38@hotmail.com',
-    companyHeadquarters: { city: 'Lake Margaretberg', state: 'Vermont', country: 'Mali' },
-    companySize: 8841,
-    defaultCurrency: 'FKP',
-    industry: 'Health'
-  },
-  {
-    companyName: 'recontextualize proactive networks',
-    companyLogo: 'https://loremflickr.com/640/480?lock=7423116342984704',
-    companyEmail: 'Genesis_Herman-McClure52@yahoo.com',
-    companyHeadquarters: { city: 'West Myrnastad', state: 'Texas', country: 'Norway' },
-    companySize: 6075,
-    defaultCurrency: 'DJF',
-    industry: 'Tools'
-  },
-  {
-    companyName: 'exploit collaborative deliverables',
-    companyLogo: 'https://loremflickr.com/640/480?lock=3737613353615360',
-    companyEmail: 'Breanne54@gmail.com',
-    companyHeadquarters: { city: 'Fort Mariliebury', state: 'Maine', country: 'Japan' },
-    companySize: 5190,
-    defaultCurrency: 'AMD',
-    industry: 'Sports'
-  },
-  {
-    companyName: 'disintermediate killer networks',
-    companyLogo: 'https://picsum.photos/seed/G7OzSJnTTt/640/480',
-    companyEmail: 'Connie19@hotmail.com',
-    companyHeadquarters: { city: 'North Letitia', state: 'Georgia', country: 'Guinea' },
-    companySize: 9314,
-    defaultCurrency: 'VND',
-    industry: 'Games'
-  },
-  {
-    companyName: 'deploy intuitive ROI',
-    companyLogo: 'https://loremflickr.com/640/480?lock=5885294565916672',
-    companyEmail: 'Ed74@yahoo.com',
-    companyHeadquarters: { city: 'Runtebury', state: 'New Hampshire', country: 'Monaco' },
-    companySize: 895,
-    defaultCurrency: 'BHD',
-    industry: 'Health'
-  },
-  {
-    companyName: 'facilitate cutting-edge e-markets',
-    companyLogo: 'https://picsum.photos/seed/rbwGZj/640/480',
-    companyEmail: 'Chauncey.Becker36@hotmail.com',
-    companyHeadquarters: { city: 'Auerstad', state: 'Florida', country: 'Vietnam' },
-    companySize: 1590,
-    defaultCurrency: 'NOK',
-    industry: 'Automotive'
-  },
-  {
-    companyName: 'enable rich bandwidth',
-    companyLogo: 'https://picsum.photos/seed/u6214VOotY/640/480',
-    companyEmail: 'Wilber15@hotmail.com',
-    companyHeadquarters: { city: 'Swaniawskiton', state: 'Nevada', country: 'Cuba' },
-    companySize: 9031,
-    defaultCurrency: 'DJF',
-    industry: 'Kids'
-  },
-  {
-    companyName: 'streamline proactive technologies',
-    companyLogo: 'https://loremflickr.com/640/480?lock=448555066064896',
-    companyEmail: 'Noemy97@hotmail.com',
-    companyHeadquarters: { city: 'Abdullahtown', state: 'Wisconsin', country: 'India' },
-    companySize: 9904,
-    defaultCurrency: 'STN',
-    industry: 'Electronics'
-  },
-  {
-    companyName: 'leverage visionary platforms',
-    companyLogo: 'https://picsum.photos/seed/ZKpu7h/640/480',
-    companyEmail: 'Margret14@hotmail.com',
-    companyHeadquarters: { city: 'Redlands', state: 'Ohio', country: 'Bahamas' },
-    companySize: 335,
-    defaultCurrency: 'PAB',
-    industry: 'Toys'
-  },
-  {
-    companyName: 'embrace synergistic niches',
-    companyLogo: 'https://picsum.photos/seed/qUjnpLq/640/480',
-    companyEmail: 'Martin_Hilpert49@gmail.com',
-    companyHeadquarters: { city: 'North Krysteltown', state: 'Georgia', country: 'Tuvalu' },
-    companySize: 2269,
-    defaultCurrency: 'SDG',
-    industry: 'Jewelery'
-  },
-  {
-    companyName: 'syndicate rich platforms',
-    companyLogo: 'https://picsum.photos/seed/pnBacuu/640/480',
-    companyEmail: 'Emerald_Huels@yahoo.com',
-    companyHeadquarters: { city: 'Yazminfurt', state: 'Louisiana', country: 'Cook Islands' },
-    companySize: 3130,
-    defaultCurrency: 'ARS',
-    industry: 'Toys'
-  },
-  {
-    companyName: 'morph clicks-and-mortar portals',
-    companyLogo: 'https://picsum.photos/seed/uXeixheyy/640/480',
-    companyEmail: 'Ernestine83@hotmail.com',
-    companyHeadquarters: { city: 'Las Vegas', state: 'Kansas', country: 'Seychelles' },
-    companySize: 4394,
-    defaultCurrency: 'UAH',
-    industry: 'Computers'
-  },
-  {
-    companyName: 'extend enterprise communities',
-    companyLogo: 'https://loremflickr.com/640/480?lock=8478503391461376',
-    companyEmail: 'Thelma.McKenzie45@yahoo.com',
-    companyHeadquarters: { city: 'Bedford', state: 'Colorado', country: 'Rwanda' },
-    companySize: 1397,
-    defaultCurrency: 'PYG',
-    industry: 'Beauty'
-  },
-  {
-    companyName: 'synergize killer methodologies',
-    companyLogo: 'https://loremflickr.com/640/480?lock=3702789628755968',
-    companyEmail: 'Nelda20@gmail.com',
-    companyHeadquarters: {
-      city: 'East Stevie',
-      state: 'South Carolina',
-      country: 'Trinidad and Tobago'
+    {
+      "companyName": "incentivize magnetic functionalities",
+      "companyLogo": "https://loremflickr.com/640/480?lock=6178128779018240",
+      "companyEmail": "Kenna_Haag76@gmail.com",
+      "companyHeadquarters": {
+        "city": "Anderson",
+        "state": "Hawaii",
+        "country": "Kiribati"
+      },
+      "companySize": 5619,
+      "defaultCurrency": "BRL",
+      "industry": "Outdoors"
     },
-    companySize: 6054,
-    defaultCurrency: 'BDT',
-    industry: 'Beauty'
-  },
-  {
-    companyName: 'visualize visionary e-markets',
-    companyLogo: 'https://picsum.photos/seed/7ofxDA/640/480',
-    companyEmail: 'Macey82@gmail.com',
-    companyHeadquarters: {
-      city: 'Abbottboro',
-      state: 'Washington',
-      country: 'Russian Federation'
+    {
+      "companyName": "repurpose cross-media mindshare",
+      "companyLogo": "https://picsum.photos/seed/I9SxShlma/640/480",
+      "companyEmail": "Nova10@hotmail.com",
+      "companyHeadquarters": {
+        "city": "New Bricefield",
+        "state": "Virginia",
+        "country": "Liberia"
+      },
+      "companySize": 5130,
+      "defaultCurrency": "BWP",
+      "industry": "Computers"
     },
-    companySize: 5101,
-    defaultCurrency: 'AED',
-    industry: 'Jewelery'
-  },
-  {
-    companyName: 'recontextualize interactive content',
-    companyLogo: 'https://loremflickr.com/640/480?lock=1032483588014080',
-    companyEmail: 'Zechariah64@yahoo.com',
-    companyHeadquarters: {
-      city: 'Coconut Creek',
-      state: 'Michigan',
-      country: 'Falkland Islands (Malvinas)'
+    {
+      "companyName": "optimize impactful initiatives",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8564363749228544",
+      "companyEmail": "Emilie_Jacobs-Bosco@gmail.com",
+      "companyHeadquarters": {
+        "city": "Palm Coast",
+        "state": "Texas",
+        "country": "Belize"
+      },
+      "companySize": 7788,
+      "defaultCurrency": "THB",
+      "industry": "Baby"
     },
-    companySize: 2155,
-    defaultCurrency: 'HUF',
-    industry: 'Automotive'
-  },
-  {
-    companyName: 'iterate revolutionary mindshare',
-    companyLogo: 'https://picsum.photos/seed/gLTpT9y0S/640/480',
-    companyEmail: 'Brendan.Schowalter52@yahoo.com',
-    companyHeadquarters: {
-      city: 'East Destinee',
-      state: 'West Virginia',
-      country: 'Argentina'
+    {
+      "companyName": "seize 24/365 mindshare",
+      "companyLogo": "https://picsum.photos/seed/eAxEmSj3Q9/640/480",
+      "companyEmail": "Mitchell13@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Hermannmouth",
+        "state": "Kansas",
+        "country": "Slovakia"
+      },
+      "companySize": 5511,
+      "defaultCurrency": "UGX",
+      "industry": "Home"
     },
-    companySize: 722,
-    defaultCurrency: 'WST',
-    industry: 'Movies'
-  },
-  {
-    companyName: 'cultivate visionary relationships',
-    companyLogo: 'https://loremflickr.com/640/480?lock=998670285668352',
-    companyEmail: 'Ahmad0@gmail.com',
-    companyHeadquarters: {
-      city: 'New Paytonstad',
-      state: 'New Hampshire',
-      country: 'El Salvador'
+    {
+      "companyName": "reinvent strategic technologies",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8235763938361344",
+      "companyEmail": "Montana.Considine@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Palm Desert",
+        "state": "Virginia",
+        "country": "Holy See (Vatican City State)"
+      },
+      "companySize": 8441,
+      "defaultCurrency": "FKP",
+      "industry": "Movies"
     },
-    companySize: 729,
-    defaultCurrency: 'BBD',
-    industry: 'Automotive'
-  },
-  {
-    companyName: 'disintermediate dot-com e-markets',
-    companyLogo: 'https://picsum.photos/seed/Bevgj/640/480',
-    companyEmail: 'Mariam36@hotmail.com',
-    companyHeadquarters: {
-      city: 'Mosciskiburgh',
-      state: 'New Hampshire',
-      country: 'Sierra Leone'
+    {
+      "companyName": "grow strategic solutions",
+      "companyLogo": "https://loremflickr.com/640/480?lock=490638021754880",
+      "companyEmail": "Simeon_Weimann@gmail.com",
+      "companyHeadquarters": {
+        "city": "Wisokychester",
+        "state": "Georgia",
+        "country": "Hong Kong"
+      },
+      "companySize": 8844,
+      "defaultCurrency": "RSD",
+      "industry": "Industrial"
     },
-    companySize: 7959,
-    defaultCurrency: 'PYG',
-    industry: 'Beauty'
-  },
-  {
-    companyName: 'integrate revolutionary action-items',
-    companyLogo: 'https://loremflickr.com/640/480?lock=7315960358764544',
-    companyEmail: 'Arjun89@yahoo.com',
-    companyHeadquarters: { city: 'New Coralie', state: 'Delaware', country: 'Eswatini' },
-    companySize: 1762,
-    defaultCurrency: 'GIP',
-    industry: 'Books'
-  },
-  {
-    companyName: 'enhance compelling experiences',
-    companyLogo: 'https://picsum.photos/seed/hYUqWJJH/640/480',
-    companyEmail: 'Breanne_Stoltenberg86@hotmail.com',
-    companyHeadquarters: { city: 'Aurelioshire', state: 'South Dakota', country: 'Chile' },
-    companySize: 5359,
-    defaultCurrency: 'JPY',
-    industry: 'Shoes'
-  },
-  {
-    companyName: 'brand web-enabled models',
-    companyLogo: 'https://picsum.photos/seed/omd2ZcCDC/640/480',
-    companyEmail: 'Dorian_Kilback9@hotmail.com',
-    companyHeadquarters: {
-      city: 'North Eloisastead',
-      state: 'New Jersey',
-      country: 'Benin'
+    {
+      "companyName": "evolve frictionless platforms",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5179336061616128",
+      "companyEmail": "Adolph_Jones@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Bogisichhaven",
+        "state": "New Hampshire",
+        "country": "New Caledonia"
+      },
+      "companySize": 9433,
+      "defaultCurrency": "BND",
+      "industry": "Health"
     },
-    companySize: 8951,
-    defaultCurrency: 'MAD',
-    industry: 'Sports'
-  },
-  {
-    companyName: 'recontextualize next-generation communities',
-    companyLogo: 'https://loremflickr.com/640/480?lock=4793962049044480',
-    companyEmail: 'Catharine19@yahoo.com',
-    companyHeadquarters: { city: 'Prohaskaview', state: 'Florida', country: 'Burundi' },
-    companySize: 4307,
-    defaultCurrency: 'MNT',
-    industry: 'Outdoors'
-  },
-  {
-    companyName: 'cultivate 24/7 content',
-    companyLogo: 'https://loremflickr.com/640/480?lock=5830434889924608',
-    companyEmail: 'Lonnie.Weimann12@hotmail.com',
-    companyHeadquarters: { city: 'Willport', state: 'Maine', country: 'Czechia' },
-    companySize: 9239,
-    defaultCurrency: 'ZMW',
-    industry: 'Industrial'
-  },
-  {
-    companyName: 'target cross-media lifetime value',
-    companyLogo: 'https://loremflickr.com/640/480?lock=5032796443639808',
-    companyEmail: 'Larissa_Mayer@yahoo.com',
-    companyHeadquarters: {
-      city: 'Brookline',
-      state: 'California',
-      country: 'Bosnia and Herzegovina'
+    {
+      "companyName": "mesh bricks-and-clicks metrics",
+      "companyLogo": "https://loremflickr.com/640/480?lock=9002262890283008",
+      "companyEmail": "Felix_Von@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Port Maximilian",
+        "state": "Hawaii",
+        "country": "Zambia"
+      },
+      "companySize": 293,
+      "defaultCurrency": "ETB",
+      "industry": "Automotive"
     },
-    companySize: 4980,
-    defaultCurrency: 'BRL',
-    industry: 'Music'
-  },
-  {
-    companyName: 'incentivize efficient interfaces',
-    companyLogo: 'https://picsum.photos/seed/FKiGg/640/480',
-    companyEmail: 'Brigitte78@yahoo.com',
-    companyHeadquarters: { city: 'Amaniside', state: 'New Hampshire', country: 'Jamaica' },
-    companySize: 2315,
-    defaultCurrency: 'DKK',
-    industry: 'Games'
-  },
-  {
-    companyName: 'benchmark user-centric ROI',
-    companyLogo: 'https://loremflickr.com/640/480?lock=3116347158429696',
-    companyEmail: 'Emil.Strosin@gmail.com',
-    companyHeadquarters: { city: 'Trantowcester', state: 'Florida', country: 'Burundi' },
-    companySize: 4023,
-    defaultCurrency: 'NZD',
-    industry: 'Baby'
-  },
-  {
-    companyName: 'incubate killer web services',
-    companyLogo: 'https://loremflickr.com/640/480?lock=552369081286656',
-    companyEmail: 'Baby49@yahoo.com',
-    companyHeadquarters: { city: 'Dublin', state: 'Pennsylvania', country: 'New Caledonia' },
-    companySize: 130,
-    defaultCurrency: 'BIF',
-    industry: 'Industrial'
-  },
-  {
-    companyName: 'strategize bleeding-edge partnerships',
-    companyLogo: 'https://loremflickr.com/640/480?lock=3229624930664448',
-    companyEmail: 'Elfrieda.Predovic@yahoo.com',
-    companyHeadquarters: { city: 'Lake Vita', state: 'Maryland', country: 'Guam' },
-    companySize: 1104,
-    defaultCurrency: 'NIO',
-    industry: 'Sports'
-  },
-  {
-    companyName: 'implement cross-media communities',
-    companyLogo: 'https://loremflickr.com/640/480?lock=5077221265899520',
-    companyEmail: 'Brando.Runte95@gmail.com',
-    companyHeadquarters: { city: 'Lubowitzworth', state: 'Arizona', country: 'Cape Verde' },
-    companySize: 3053,
-    defaultCurrency: 'EUR',
-    industry: 'Outdoors'
-  },
-  {
-    companyName: 'recontextualize innovative solutions',
-    companyLogo: 'https://picsum.photos/seed/ESOkt8aR/640/480',
-    companyEmail: 'Estell99@yahoo.com',
-    companyHeadquarters: {
-      city: 'New Chrisview',
-      state: 'Oklahoma',
-      country: 'Bosnia and Herzegovina'
+    {
+      "companyName": "monetize web-enabled e-business",
+      "companyLogo": "https://loremflickr.com/640/480?lock=6048109461241856",
+      "companyEmail": "Karl26@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Port Electatown",
+        "state": "Missouri",
+        "country": "Saint Martin"
+      },
+      "companySize": 9204,
+      "defaultCurrency": "BAM",
+      "industry": "Toys"
     },
-    companySize: 7197,
-    defaultCurrency: 'MMK',
-    industry: 'Music'
-  },
-  {
-    companyName: 'scale interactive models',
-    companyLogo: 'https://loremflickr.com/640/480?lock=3381440433618944',
-    companyEmail: 'Oren.Kautzer@hotmail.com',
-    companyHeadquarters: {
-      city: 'South Blancheberg',
-      state: 'Minnesota',
-      country: 'Equatorial Guinea'
+    {
+      "companyName": "reintermediate compelling architectures",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1252275804700672",
+      "companyEmail": "Keon.Pfannerstill@gmail.com",
+      "companyHeadquarters": {
+        "city": "Patrickshire",
+        "state": "Missouri",
+        "country": "Kyrgyz Republic"
+      },
+      "companySize": 6958,
+      "defaultCurrency": "MRU",
+      "industry": "Baby"
     },
-    companySize: 1379,
-    defaultCurrency: 'BGN',
-    industry: 'Automotive'
-  }
-]}
+    {
+      "companyName": "revolutionize transparent experiences",
+      "companyLogo": "https://picsum.photos/seed/OWv5p/640/480",
+      "companyEmail": "Marco_Bosco@yahoo.com",
+      "companyHeadquarters": {
+        "city": "South Owen",
+        "state": "Utah",
+        "country": "Madagascar"
+      },
+      "companySize": 8018,
+      "defaultCurrency": "UGX",
+      "industry": "Kids"
+    },
+    {
+      "companyName": "integrate compelling metrics",
+      "companyLogo": "https://picsum.photos/seed/m9ftO/640/480",
+      "companyEmail": "Jorge23@gmail.com",
+      "companyHeadquarters": {
+        "city": "East Abraham",
+        "state": "Michigan",
+        "country": "Martinique"
+      },
+      "companySize": 1811,
+      "defaultCurrency": "MXN",
+      "industry": "Tools"
+    },
+    {
+      "companyName": "maximize dynamic architectures",
+      "companyLogo": "https://loremflickr.com/640/480?lock=633491578421248",
+      "companyEmail": "Rahsaan.Nitzsche6@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Hamillland",
+        "state": "Iowa",
+        "country": "Bhutan"
+      },
+      "companySize": 6254,
+      "defaultCurrency": "RUB",
+      "industry": "Automotive"
+    },
+    {
+      "companyName": "exploit viral solutions",
+      "companyLogo": "https://loremflickr.com/640/480?lock=4903559613120512",
+      "companyEmail": "Sonia_Kunze38@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Lake Margaretberg",
+        "state": "Vermont",
+        "country": "Mali"
+      },
+      "companySize": 8841,
+      "defaultCurrency": "FKP",
+      "industry": "Health"
+    },
+    {
+      "companyName": "recontextualize proactive networks",
+      "companyLogo": "https://loremflickr.com/640/480?lock=7423116342984704",
+      "companyEmail": "Genesis_Herman-McClure52@yahoo.com",
+      "companyHeadquarters": {
+        "city": "West Myrnastad",
+        "state": "Texas",
+        "country": "Norway"
+      },
+      "companySize": 6075,
+      "defaultCurrency": "DJF",
+      "industry": "Tools"
+    },
+    {
+      "companyName": "exploit collaborative deliverables",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3737613353615360",
+      "companyEmail": "Breanne54@gmail.com",
+      "companyHeadquarters": {
+        "city": "Fort Mariliebury",
+        "state": "Maine",
+        "country": "Japan"
+      },
+      "companySize": 5190,
+      "defaultCurrency": "AMD",
+      "industry": "Sports"
+    },
+    {
+      "companyName": "disintermediate killer networks",
+      "companyLogo": "https://picsum.photos/seed/G7OzSJnTTt/640/480",
+      "companyEmail": "Connie19@hotmail.com",
+      "companyHeadquarters": {
+        "city": "North Letitia",
+        "state": "Georgia",
+        "country": "Guinea"
+      },
+      "companySize": 9314,
+      "defaultCurrency": "VND",
+      "industry": "Games"
+    },
+    {
+      "companyName": "deploy intuitive ROI",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5885294565916672",
+      "companyEmail": "Ed74@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Runtebury",
+        "state": "New Hampshire",
+        "country": "Monaco"
+      },
+      "companySize": 895,
+      "defaultCurrency": "BHD",
+      "industry": "Health"
+    },
+    {
+      "companyName": "facilitate cutting-edge e-markets",
+      "companyLogo": "https://picsum.photos/seed/rbwGZj/640/480",
+      "companyEmail": "Chauncey.Becker36@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Auerstad",
+        "state": "Florida",
+        "country": "Vietnam"
+      },
+      "companySize": 1590,
+      "defaultCurrency": "NOK",
+      "industry": "Automotive"
+    },
+    {
+      "companyName": "enable rich bandwidth",
+      "companyLogo": "https://picsum.photos/seed/u6214VOotY/640/480",
+      "companyEmail": "Wilber15@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Swaniawskiton",
+        "state": "Nevada",
+        "country": "Cuba"
+      },
+      "companySize": 9031,
+      "defaultCurrency": "DJF",
+      "industry": "Kids"
+    },
+    {
+      "companyName": "streamline proactive technologies",
+      "companyLogo": "https://loremflickr.com/640/480?lock=448555066064896",
+      "companyEmail": "Noemy97@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Abdullahtown",
+        "state": "Wisconsin",
+        "country": "India"
+      },
+      "companySize": 9904,
+      "defaultCurrency": "STN",
+      "industry": "Electronics"
+    },
+    {
+      "companyName": "leverage visionary platforms",
+      "companyLogo": "https://picsum.photos/seed/ZKpu7h/640/480",
+      "companyEmail": "Margret14@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Redlands",
+        "state": "Ohio",
+        "country": "Bahamas"
+      },
+      "companySize": 335,
+      "defaultCurrency": "PAB",
+      "industry": "Toys"
+    },
+    {
+      "companyName": "embrace synergistic niches",
+      "companyLogo": "https://picsum.photos/seed/qUjnpLq/640/480",
+      "companyEmail": "Martin_Hilpert49@gmail.com",
+      "companyHeadquarters": {
+        "city": "North Krysteltown",
+        "state": "Georgia",
+        "country": "Tuvalu"
+      },
+      "companySize": 2269,
+      "defaultCurrency": "SDG",
+      "industry": "Jewelery"
+    },
+    {
+      "companyName": "syndicate rich platforms",
+      "companyLogo": "https://picsum.photos/seed/pnBacuu/640/480",
+      "companyEmail": "Emerald_Huels@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Yazminfurt",
+        "state": "Louisiana",
+        "country": "Cook Islands"
+      },
+      "companySize": 3130,
+      "defaultCurrency": "ARS",
+      "industry": "Toys"
+    },
+    {
+      "companyName": "morph clicks-and-mortar portals",
+      "companyLogo": "https://picsum.photos/seed/uXeixheyy/640/480",
+      "companyEmail": "Ernestine83@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Las Vegas",
+        "state": "Kansas",
+        "country": "Seychelles"
+      },
+      "companySize": 4394,
+      "defaultCurrency": "UAH",
+      "industry": "Computers"
+    },
+    {
+      "companyName": "extend enterprise communities",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8478503391461376",
+      "companyEmail": "Thelma.McKenzie45@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Bedford",
+        "state": "Colorado",
+        "country": "Rwanda"
+      },
+      "companySize": 1397,
+      "defaultCurrency": "PYG",
+      "industry": "Beauty"
+    },
+    {
+      "companyName": "synergize killer methodologies",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3702789628755968",
+      "companyEmail": "Nelda20@gmail.com",
+      "companyHeadquarters": {
+        "city": "East Stevie",
+        "state": "South Carolina",
+        "country": "Trinidad and Tobago"
+      },
+      "companySize": 6054,
+      "defaultCurrency": "BDT",
+      "industry": "Beauty"
+    },
+    {
+      "companyName": "visualize visionary e-markets",
+      "companyLogo": "https://picsum.photos/seed/7ofxDA/640/480",
+      "companyEmail": "Macey82@gmail.com",
+      "companyHeadquarters": {
+        "city": "Abbottboro",
+        "state": "Washington",
+        "country": "Russian Federation"
+      },
+      "companySize": 5101,
+      "defaultCurrency": "AED",
+      "industry": "Jewelery"
+    },
+    {
+      "companyName": "recontextualize interactive content",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1032483588014080",
+      "companyEmail": "Zechariah64@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Coconut Creek",
+        "state": "Michigan",
+        "country": "Falkland Islands (Malvinas)"
+      },
+      "companySize": 2155,
+      "defaultCurrency": "HUF",
+      "industry": "Automotive"
+    },
+    {
+      "companyName": "iterate revolutionary mindshare",
+      "companyLogo": "https://picsum.photos/seed/gLTpT9y0S/640/480",
+      "companyEmail": "Brendan.Schowalter52@yahoo.com",
+      "companyHeadquarters": {
+        "city": "East Destinee",
+        "state": "West Virginia",
+        "country": "Argentina"
+      },
+      "companySize": 722,
+      "defaultCurrency": "WST",
+      "industry": "Movies"
+    },
+    {
+      "companyName": "cultivate visionary relationships",
+      "companyLogo": "https://loremflickr.com/640/480?lock=998670285668352",
+      "companyEmail": "Ahmad0@gmail.com",
+      "companyHeadquarters": {
+        "city": "New Paytonstad",
+        "state": "New Hampshire",
+        "country": "El Salvador"
+      },
+      "companySize": 729,
+      "defaultCurrency": "BBD",
+      "industry": "Automotive"
+    },
+    {
+      "companyName": "disintermediate dot-com e-markets",
+      "companyLogo": "https://picsum.photos/seed/Bevgj/640/480",
+      "companyEmail": "Mariam36@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Mosciskiburgh",
+        "state": "New Hampshire",
+        "country": "Sierra Leone"
+      },
+      "companySize": 7959,
+      "defaultCurrency": "PYG",
+      "industry": "Books"
+    },
+    {
+      "companyName": "enhance scalable e-commerce",
+      "companyLogo": "https://loremflickr.com/640/480?lock=7002133803643392",
+      "companyEmail": "Missouri83@gmail.com",
+      "companyHeadquarters": {
+        "city": "Evanston",
+        "state": "Michigan",
+        "country": "Uzbekistan"
+      },
+      "companySize": 2387,
+      "defaultCurrency": "XOF",
+      "industry": "Electronics"
+    },
+    {
+      "companyName": "empower seamless experiences",
+      "companyLogo": "https://picsum.photos/seed/5r1DBEj2S/640/480",
+      "companyEmail": "Nash_Stroman@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Keeblermouth",
+        "state": "Kentucky",
+        "country": "Central African Republic"
+      },
+      "companySize": 2587,
+      "defaultCurrency": "MGA",
+      "industry": "Garden"
+    },
+    {
+      "companyName": "engineer dot-com platforms",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3380341691898368",
+      "companyEmail": "Deonte_Weissnat27@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Port Luciano",
+        "state": "Texas",
+        "country": "Cambodia"
+      },
+      "companySize": 4297,
+      "defaultCurrency": "HUF",
+      "industry": "Beauty"
+    },
+    {
+      "companyName": "orchestrate vertical models",
+      "companyLogo": "https://loremflickr.com/640/480?lock=9084215037683712",
+      "companyEmail": "Kattie_Lowe53@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Maziechester",
+        "state": "New Hampshire",
+        "country": "Guinea"
+      },
+      "companySize": 7550,
+      "defaultCurrency": "ALL",
+      "industry": "Books"
+    },
+    {
+      "companyName": "aggregate end-to-end partnerships",
+      "companyLogo": "https://picsum.photos/seed/6RyX8AdF2/640/480",
+      "companyEmail": "Stephany.Bartoletti11@hotmail.com",
+      "companyHeadquarters": {
+        "city": "East Leonardoville",
+        "state": "New York",
+        "country": "Sao Tome and Principe"
+      },
+      "companySize": 5541,
+      "defaultCurrency": "SAR",
+      "industry": "Toys"
+    },
+    {
+      "companyName": "reinvent turn-key e-services",
+      "companyLogo": "https://loremflickr.com/640/480?lock=134400961223936",
+      "companyEmail": "Winston_Schaefer24@yahoo.com",
+      "companyHeadquarters": {
+        "city": "North Selmer",
+        "state": "South Carolina",
+        "country": "Madagascar"
+      },
+      "companySize": 1813,
+      "defaultCurrency": "DJF",
+      "industry": "Garden"
+    },
+    {
+      "companyName": "scale innovative markets",
+      "companyLogo": "https://picsum.photos/seed/2EBByDOVEZ/640/480",
+      "companyEmail": "Regan_Wunsch47@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Stokesport",
+        "state": "Indiana",
+        "country": "Nigeria"
+      },
+      "companySize": 8320,
+      "defaultCurrency": "SVC",
+      "industry": "Sports"
+    },
+    {
+      "companyName": "streamline mission-critical markets",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3831077714511872",
+      "companyEmail": "Margarett_Gusikowski@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Dewitttown",
+        "state": "New York",
+        "country": "Burkina Faso"
+      },
+      "companySize": 1621,
+      "defaultCurrency": "CUP",
+      "industry": "Toys"
+    },
+    {
+      "companyName": "integrate killer interfaces",
+      "companyLogo": "https://picsum.photos/seed/J9LdyuBeEM/640/480",
+      "companyEmail": "Bryce.Hirthe@hotmail.com",
+      "companyHeadquarters": {
+        "city": "West Stefanieland",
+        "state": "Ohio",
+        "country": "Lao People's Democratic Republic"
+      },
+      "companySize": 6827,
+      "defaultCurrency": "IRR",
+      "industry": "Baby"
+    },
+    {
+      "companyName": "reintermediate visionary systems",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5111525322643968",
+      "companyEmail": "Marina37@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Port Omari",
+        "state": "Montana",
+        "country": "Mauritius"
+      },
+      "companySize": 9046,
+      "defaultCurrency": "SAR",
+      "industry": "Outdoors"
+    },
+    {
+      "companyName": "exploit end-to-end content",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5145405479830016",
+      "companyEmail": "Luisa_Grimes22@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Orlandoview",
+        "state": "Michigan",
+        "country": "Nicaragua"
+      },
+      "companySize": 6058,
+      "defaultCurrency": "NZD",
+      "industry": "Music"
+    },
+    {
+      "companyName": "maximize impactful initiatives",
+      "companyLogo": "https://loremflickr.com/640/480?lock=857446618487808",
+      "companyEmail": "Charley78@gmail.com",
+      "companyHeadquarters": {
+        "city": "East Shanatown",
+        "state": "Mississippi",
+        "country": "Yemen"
+      },
+      "companySize": 9526,
+      "defaultCurrency": "AED",
+      "industry": "Books"
+    },
+    {
+      "companyName": "redefine interactive technologies",
+      "companyLogo": "https://picsum.photos/seed/OzE9YjZYzT/640/480",
+      "companyEmail": "Elliot_Wyman@hotmail.com",
+      "companyHeadquarters": {
+        "city": "New Gonzalo",
+        "state": "Maine",
+        "country": "Grenada"
+      },
+      "companySize": 7937,
+      "defaultCurrency": "XAF",
+      "industry": "Movies"
+    },
+    {
+      "companyName": "synergize plug-and-play content",
+      "companyLogo": "https://loremflickr.com/640/480?lock=2747925978978304",
+      "companyEmail": "Kirstin.Koelpin4@gmail.com",
+      "companyHeadquarters": {
+        "city": "South Yasmineshire",
+        "state": "Massachusetts",
+        "country": "Ecuador"
+      },
+      "companySize": 9443,
+      "defaultCurrency": "JMD",
+      "industry": "Beauty"
+    },
+    {
+      "companyName": "matrix interactive models",
+      "companyLogo": "https://picsum.photos/seed/3gk7ZBt9/640/480",
+      "companyEmail": "Kennedi_Heidenreich28@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Lake Kalebshire",
+        "state": "Connecticut",
+        "country": "Belize"
+      },
+      "companySize": 1788,
+      "defaultCurrency": "SCR",
+      "industry": "Shoes"
+    },
+    {
+      "companyName": "expedite killer e-business",
+      "companyLogo": "https://loremflickr.com/640/480?lock=4182602914874368",
+      "companyEmail": "Eduardo_Smith86@gmail.com",
+      "companyHeadquarters": {
+        "city": "East Veronica",
+        "state": "Minnesota",
+        "country": "Cameroon"
+      },
+      "companySize": 8282,
+      "defaultCurrency": "MWK",
+      "industry": "Books"
+    },
+    {
+      "companyName": "utilize turn-key initiatives",
+      "companyLogo": "https://loremflickr.com/640/480?lock=662935034787840",
+      "companyEmail": "Yolanda.Bernier55@yahoo.com",
+      "companyHeadquarters": {
+        "city": "New Nikolasfurt",
+        "state": "Maryland",
+        "country": "Costa Rica"
+      },
+      "companySize": 2189,
+      "defaultCurrency": "HNL",
+      "industry": "Health"
+    },
+    {
+      "companyName": "target efficient experiences",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1837641231888384",
+      "companyEmail": "Dangelo_McGlynn23@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Hirthechester",
+        "state": "Tennessee",
+        "country": "Bangladesh"
+      },
+      "companySize": 4517,
+      "defaultCurrency": "KRW",
+      "industry": "Electronics"
+    },
+    {
+      "companyName": "reintermediate distributed systems",
+      "companyLogo": "https://loremflickr.com/640/480?lock=2464962265060864",
+      "companyEmail": "Kelsi.Wunsch15@hotmail.com",
+      "companyHeadquarters": {
+        "city": "East Elisabethburgh",
+        "state": "South Carolina",
+        "country": "Bermuda"
+      },
+      "companySize": 7025,
+      "defaultCurrency": "JOD",
+      "industry": "Beauty"
+    },
+    {
+      "companyName": "utilize intuitive ROI",
+      "companyLogo": "https://picsum.photos/seed/G0yWUtOdSP/640/480",
+      "companyEmail": "Mallie19@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Hiramfort",
+        "state": "Nebraska",
+        "country": "Cote d'Ivoire"
+      },
+      "companySize": 8748,
+      "defaultCurrency": "DKK",
+      "industry": "Toys"
+    },
+    {
+      "companyName": "transform vertical content",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1602804771719168",
+      "companyEmail": "Kamren_Volkman16@gmail.com",
+      "companyHeadquarters": {
+        "city": "Keeblerhaven",
+        "state": "Texas",
+        "country": "Congo"
+      },
+      "companySize": 7025,
+      "defaultCurrency": "GNF",
+      "industry": "Shoes"
+    },
+    {
+      "companyName": "transform B2C e-commerce",
+      "companyLogo": "https://loremflickr.com/640/480?lock=2210411352113152",
+      "companyEmail": "Idell.Klein36@yahoo.com",
+      "companyHeadquarters": {
+        "city": "West Maudmouth",
+        "state": "Iowa",
+        "country": "Uganda"
+      },
+      "companySize": 9708,
+      "defaultCurrency": "KPW",
+      "industry": "Health"
+    },
+    {
+      "companyName": "incentivize scalable content",
+      "companyLogo": "https://loremflickr.com/640/480?lock=671126206763008",
+      "companyEmail": "Hilario.McGlynn16@gmail.com",
+      "companyHeadquarters": {
+        "city": "Gustmouth",
+        "state": "New Jersey",
+        "country": "Bouvet Island"
+      },
+      "companySize": 4391,
+      "defaultCurrency": "RON",
+      "industry": "Home"
+    },
+    {
+      "companyName": "synergize efficient platforms",
+      "companyLogo": "https://picsum.photos/seed/yX37ksV26M/640/480",
+      "companyEmail": "Abbie_Kertzmann22@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Elyssaport",
+        "state": "Rhode Island",
+        "country": "Tunisia"
+      },
+      "companySize": 8227,
+      "defaultCurrency": "XPF",
+      "industry": "Baby"
+    },
+    {
+      "companyName": "syndicate global paradigms",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3208566647930368",
+      "companyEmail": "Alfred.Steuber19@yahoo.com",
+      "companyHeadquarters": {
+        "city": "North Aliya",
+        "state": "Minnesota",
+        "country": "Algeria"
+      },
+      "companySize": 4222,
+      "defaultCurrency": "RSD",
+      "industry": "Home"
+    },
+    {
+      "companyName": "e-enable value-added web services",
+      "companyLogo": "https://picsum.photos/seed/dPCKC3DwH/640/480",
+      "companyEmail": "Lorine44@gmail.com",
+      "companyHeadquarters": {
+        "city": "Grimesport",
+        "state": "Kentucky",
+        "country": "Albania"
+      },
+      "companySize": 8922,
+      "defaultCurrency": "SZL",
+      "industry": "Grocery"
+    },
+    {
+      "companyName": "engage holistic web-readiness",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3736419648526336",
+      "companyEmail": "Malvina.Harris38@gmail.com",
+      "companyHeadquarters": {
+        "city": "Lake Taya",
+        "state": "Vermont",
+        "country": "Niger"
+      },
+      "companySize": 5393,
+      "defaultCurrency": "BHD",
+      "industry": "Shoes"
+    },
+    {
+      "companyName": "engineer killer platforms",
+      "companyLogo": "https://loremflickr.com/640/480?lock=9723704097928192",
+      "companyEmail": "Lenna37@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Antwanborough",
+        "state": "Alabama",
+        "country": "Slovenia"
+      },
+      "companySize": 7927,
+      "defaultCurrency": "MAD",
+      "industry": "Movies"
+    },
+    {
+      "companyName": "redefine killer action-items",
+      "companyLogo": "https://picsum.photos/seed/3gnUXW5ay5/640/480",
+      "companyEmail": "Marion_Harvey@gmail.com",
+      "companyHeadquarters": {
+        "city": "Brennanburgh",
+        "state": "Iowa",
+        "country": "Cayman Islands"
+      },
+      "companySize": 8431,
+      "defaultCurrency": "MUR",
+      "industry": "Industrial"
+    },
+    {
+      "companyName": "utilize B2B e-services",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5927995667778048",
+      "companyEmail": "Oscar_Herman35@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Armanistad",
+        "state": "South Carolina",
+        "country": "Nepal"
+      },
+      "companySize": 2173,
+      "defaultCurrency": "LSL",
+      "industry": "Jewelery"
+    },
+    {
+      "companyName": "recontextualize best-of-breed content",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8285760161863680",
+      "companyEmail": "Lulu.McKenzie97@yahoo.com",
+      "companyHeadquarters": {
+        "city": "East Romanborough",
+        "state": "Oklahoma",
+        "country": "Lithuania"
+      },
+      "companySize": 5031,
+      "defaultCurrency": "LAK",
+      "industry": "Garden"
+    },
+    {
+      "companyName": "engage value-added content",
+      "companyLogo": "https://picsum.photos/seed/rXaGpgCjsI/640/480",
+      "companyEmail": "Lauriane39@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Nathanielshire",
+        "state": "Arkansas",
+        "country": "Chad"
+      },
+      "companySize": 5240,
+      "defaultCurrency": "CVE",
+      "industry": "Outdoors"
+    },
+    {
+      "companyName": "brand front-end platforms",
+      "companyLogo": "https://picsum.photos/seed/BCZWzT61jw/640/480",
+      "companyEmail": "Deion.Lueilwitz@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Dejuanville",
+        "state": "South Dakota",
+        "country": "Eritrea"
+      },
+      "companySize": 9064,
+      "defaultCurrency": "NZD",
+      "industry": "Jewelery"
+    },
+    {
+      "companyName": "synthesize vertical experiences",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3131097803205632",
+      "companyEmail": "Brianne_OReilly30@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Lake Alyceburgh",
+        "state": "Illinois",
+        "country": "United States Minor Outlying Islands"
+      },
+      "companySize": 8543,
+      "defaultCurrency": "ETB",
+      "industry": "Grocery"
+    },
+    {
+      "companyName": "engage B2B e-business",
+      "companyLogo": "https://picsum.photos/seed/3A3gqbFLzg/640/480",
+      "companyEmail": "Nellie.Donnelly@gmail.com",
+      "companyHeadquarters": {
+        "city": "Brooksville",
+        "state": "Minnesota",
+        "country": "Niger"
+      },
+      "companySize": 3511,
+      "defaultCurrency": "NAD",
+      "industry": "Books"
+    },
+    {
+      "companyName": "streamline granular channels",
+      "companyLogo": "https://loremflickr.com/640/480?lock=4370984315927552",
+      "companyEmail": "Lyric6@yahoo.com",
+      "companyHeadquarters": {
+        "city": "South Blaze",
+        "state": "Alaska",
+        "country": "Bulgaria"
+      },
+      "companySize": 1565,
+      "defaultCurrency": "PEN",
+      "industry": "Industrial"
+    },
+    {
+      "companyName": "exploit front-end experiences",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8697981640854528",
+      "companyEmail": "Gustave.Wolf4@hotmail.com",
+      "companyHeadquarters": {
+        "city": "East Rosalynmouth",
+        "state": "North Carolina",
+        "country": "Turkmenistan"
+      },
+      "companySize": 5438,
+      "defaultCurrency": "TZS",
+      "industry": "Movies"
+    },
+    {
+      "companyName": "strategize intuitive markets",
+      "companyLogo": "https://picsum.photos/seed/UbJodczUsW/640/480",
+      "companyEmail": "Rogelio.Stiedemann@yahoo.com",
+      "companyHeadquarters": {
+        "city": "West Elna",
+        "state": "Georgia",
+        "country": "Bouvet Island"
+      },
+      "companySize": 3031,
+      "defaultCurrency": "NIO",
+      "industry": "Games"
+    },
+    {
+      "companyName": "revolutionize end-to-end content",
+      "companyLogo": "https://loremflickr.com/640/480?lock=2969001058570752",
+      "companyEmail": "Demond_Kuphal13@hotmail.com",
+      "companyHeadquarters": {
+        "city": "West Ebbabury",
+        "state": "Kansas",
+        "country": "Sudan"
+      },
+      "companySize": 4346,
+      "defaultCurrency": "BRL",
+      "industry": "Industrial"
+    },
+    {
+      "companyName": "innovate 24/365 infrastructures",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5136560380415488",
+      "companyEmail": "Lonny_Toy19@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Daijaborough",
+        "state": "Mississippi",
+        "country": "Bolivia"
+      },
+      "companySize": 5768,
+      "defaultCurrency": "UAH",
+      "industry": "Health"
+    },
+    {
+      "companyName": "harness integrated paradigms",
+      "companyLogo": "https://loremflickr.com/640/480?lock=7455101778507776",
+      "companyEmail": "Araceli_Crona23@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Wadehaven",
+        "state": "Hawaii",
+        "country": "Iceland"
+      },
+      "companySize": 9143,
+      "defaultCurrency": "TMT",
+      "industry": "Books"
+    },
+    {
+      "companyName": "maximize user-centric niches",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8964548748790272",
+      "companyEmail": "Morgan73@yahoo.com",
+      "companyHeadquarters": {
+        "city": "West Gussiemouth",
+        "state": "Florida",
+        "country": "Gambia"
+      },
+      "companySize": 6871,
+      "defaultCurrency": "XPF",
+      "industry": "Garden"
+    },
+    {
+      "companyName": "disintermediate open-source relationships",
+      "companyLogo": "https://loremflickr.com/640/480?lock=6332612234532864",
+      "companyEmail": "Conner.Kreiger22@hotmail.com",
+      "companyHeadquarters": {
+        "city": "East Valentin",
+        "state": "New Mexico",
+        "country": "French Guiana"
+      },
+      "companySize": 7320,
+      "defaultCurrency": "CVE",
+      "industry": "Shoes"
+    },
+    {
+      "companyName": "cultivate magnetic web-readiness",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3279442425729536",
+      "companyEmail": "Mabel.Paucek@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Bogisichfort",
+        "state": "Michigan",
+        "country": "Bhutan"
+      },
+      "companySize": 3433,
+      "defaultCurrency": "CNY",
+      "industry": "Sports"
+    },
+    {
+      "companyName": "expedite B2B applications",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1056808948156416",
+      "companyEmail": "Karley_Cartwright69@gmail.com",
+      "companyHeadquarters": {
+        "city": "South Letha",
+        "state": "Arkansas",
+        "country": "Bouvet Island"
+      },
+      "companySize": 3722,
+      "defaultCurrency": "NOK",
+      "industry": "Books"
+    },
+    {
+      "companyName": "leverage dot-com ROI",
+      "companyLogo": "https://loremflickr.com/640/480?lock=6035204143734784",
+      "companyEmail": "Tiffany_Heaney11@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Lake Claireberg",
+        "state": "Missouri",
+        "country": "French Southern Territories"
+      },
+      "companySize": 9282,
+      "defaultCurrency": "INR",
+      "industry": "Jewelery"
+    },
+    {
+      "companyName": "cultivate visionary applications",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3018285515092992",
+      "companyEmail": "Adolphus_McGlynn@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Port Sabina",
+        "state": "New Mexico",
+        "country": "Comoros"
+      },
+      "companySize": 8900,
+      "defaultCurrency": "SLL",
+      "industry": "Outdoors"
+    },
+    {
+      "companyName": "repurpose B2C niches",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5361158711996416",
+      "companyEmail": "Rowena.Mayer87@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Bartonville",
+        "state": "Montana",
+        "country": "Ethiopia"
+      },
+      "companySize": 6073,
+      "defaultCurrency": "COP",
+      "industry": "Industrial"
+    },
+    {
+      "companyName": "revolutionize dynamic partnerships",
+      "companyLogo": "https://loremflickr.com/640/480?lock=6129205597934080",
+      "companyEmail": "Edwin.Goyette47@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Schummside",
+        "state": "Rhode Island",
+        "country": "Sudan"
+      },
+      "companySize": 9683,
+      "defaultCurrency": "XCD",
+      "industry": "Sports"
+    },
+    {
+      "companyName": "enable robust paradigms",
+      "companyLogo": "https://loremflickr.com/640/480?lock=9433157402259456",
+      "companyEmail": "Thaddeus_Carroll77@hotmail.com",
+      "companyHeadquarters": {
+        "city": "North Merritt",
+        "state": "Georgia",
+        "country": "Paraguay"
+      },
+      "companySize": 6635,
+      "defaultCurrency": "SZL",
+      "industry": "Industrial"
+    },
+    {
+      "companyName": "strategize intuitive communities",
+      "companyLogo": "https://loremflickr.com/640/480?lock=7277865886033408",
+      "companyEmail": "Vida_Fritsch20@gmail.com",
+      "companyHeadquarters": {
+        "city": "East Laurine",
+        "state": "South Dakota",
+        "country": "Liberia"
+      },
+      "companySize": 9200,
+      "defaultCurrency": "SEK",
+      "industry": "Garden"
+    },
+    {
+      "companyName": "redefine killer technologies",
+      "companyLogo": "https://loremflickr.com/640/480?lock=4292277896412160",
+      "companyEmail": "Elena44@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Fadelmouth",
+        "state": "Maryland",
+        "country": "Equatorial Guinea"
+      },
+      "companySize": 1592,
+      "defaultCurrency": "JPY",
+      "industry": "Jewelery"
+    },
+    {
+      "companyName": "engage wireless channels",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1447077320977408",
+      "companyEmail": "Isaias.Bode@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Antwanside",
+        "state": "North Carolina",
+        "country": "New Zealand"
+      },
+      "companySize": 6973,
+      "defaultCurrency": "JMD",
+      "industry": "Electronics"
+    },
+    {
+      "companyName": "extend out-of-the-box supply-chains",
+      "companyLogo": "https://loremflickr.com/640/480?lock=5658084136698368",
+      "companyEmail": "Robyn_Donnelly@gmail.com",
+      "companyHeadquarters": {
+        "city": "South Jamie",
+        "state": "Wisconsin",
+        "country": "Liberia"
+      },
+      "companySize": 6356,
+      "defaultCurrency": "DKK",
+      "industry": "Garden"
+    },
+    {
+      "companyName": "cultivate value-added functionalities",
+      "companyLogo": "https://loremflickr.com/640/480?lock=2253187320806400",
+      "companyEmail": "Haley_Gottlieb87@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Cristmouth",
+        "state": "Missouri",
+        "country": "British Virgin Islands"
+      },
+      "companySize": 9072,
+      "defaultCurrency": "XAF",
+      "industry": "Beauty"
+    },
+    {
+      "companyName": "transform virtual ROI",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3377994634983424",
+      "companyEmail": "Derrick_Gusikowski16@hotmail.com",
+      "companyHeadquarters": {
+        "city": "East Julioberg",
+        "state": "New Jersey",
+        "country": "Lesotho"
+      },
+      "companySize": 6499,
+      "defaultCurrency": "VEF",
+      "industry": "Toys"
+    },
+    {
+      "companyName": "disintermediate sticky e-tailers",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1284996236110336",
+      "companyEmail": "Carrie_Bruen99@hotmail.com",
+      "companyHeadquarters": {
+        "city": "East Rosamondstad",
+        "state": "South Carolina",
+        "country": "Kenya"
+      },
+      "companySize": 2325,
+      "defaultCurrency": "SEK",
+      "industry": "Baby"
+    },
+    {
+      "companyName": "e-enable scalable mindshare",
+      "companyLogo": "https://loremflickr.com/640/480?lock=9753681100485632",
+      "companyEmail": "Ashly.Tillman28@hotmail.com",
+      "companyHeadquarters": {
+        "city": "New Alessiaborough",
+        "state": "Oklahoma",
+        "country": "Cook Islands"
+      },
+      "companySize": 9565,
+      "defaultCurrency": "BRL",
+      "industry": "Health"
+    },
+    {
+      "companyName": "synthesize web-enabled channels",
+      "companyLogo": "https://loremflickr.com/640/480?lock=2269248383343104",
+      "companyEmail": "Erich_Turcotte@gmail.com",
+      "companyHeadquarters": {
+        "city": "North Heaven",
+        "state": "Oklahoma",
+        "country": "Tonga"
+      },
+      "companySize": 9866,
+      "defaultCurrency": "TMT",
+      "industry": "Books"
+    },
+    {
+      "companyName": "cultivate dot-com metrics",
+      "companyLogo": "https://loremflickr.com/640/480?lock=2622026488536064",
+      "companyEmail": "Kendrick.Russel@gmail.com",
+      "companyHeadquarters": {
+        "city": "Hollieburgh",
+        "state": "Indiana",
+        "country": "Niger"
+      },
+      "companySize": 7166,
+      "defaultCurrency": "MVR",
+      "industry": "Home"
+    },
+    {
+      "companyName": "reintermediate viral web services",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1871259280363008",
+      "companyEmail": "Tobin.Wiza14@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Jettchester",
+        "state": "Oklahoma",
+        "country": "Lebanon"
+      },
+      "companySize": 8760,
+      "defaultCurrency": "PEN",
+      "industry": "Beauty"
+    },
+    {
+      "companyName": "leverage efficient paradigms",
+      "companyLogo": "https://loremflickr.com/640/480?lock=6782823463010304",
+      "companyEmail": "Tavares31@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Stefanfort",
+        "state": "South Carolina",
+        "country": "Bahamas"
+      },
+      "companySize": 2476,
+      "defaultCurrency": "MAD",
+      "industry": "Computers"
+    },
+    {
+      "companyName": "facilitate interactive e-commerce",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8706958476853760",
+      "companyEmail": "Maurice_Witting24@hotmail.com",
+      "companyHeadquarters": {
+        "city": "West Therese",
+        "state": "Alaska",
+        "country": "Faroe Islands"
+      },
+      "companySize": 9112,
+      "defaultCurrency": "CRC",
+      "industry": "Sports"
+    },
+    {
+      "companyName": "disintermediate distributed e-markets",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1421088684286976",
+      "companyEmail": "Maiya24@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Jovaniburgh",
+        "state": "Hawaii",
+        "country": "Central African Republic"
+      },
+      "companySize": 2539,
+      "defaultCurrency": "NPR",
+      "industry": "Electronics"
+    },
+    {
+      "companyName": "innovate impactful solutions",
+      "companyLogo": "https://loremflickr.com/640/480?lock=7160772254477312",
+      "companyEmail": "Josiane31@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Aldaberg",
+        "state": "Indiana",
+        "country": "Antigua and Barbuda"
+      },
+      "companySize": 4813,
+      "defaultCurrency": "ETB",
+      "industry": "Kids"
+    },
+    {
+      "companyName": "empower open-source web-readiness",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8044982526365184",
+      "companyEmail": "Cayla.Parker98@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Cletusmouth",
+        "state": "Mississippi",
+        "country": "Sierra Leone"
+      },
+      "companySize": 1552,
+      "defaultCurrency": "TJS",
+      "industry": "Movies"
+    },
+    {
+      "companyName": "unleash wireless content",
+      "companyLogo": "https://loremflickr.com/640/480?lock=3411328576423936",
+      "companyEmail": "Tamia.Schneider84@hotmail.com",
+      "companyHeadquarters": {
+        "city": "Ritahtown",
+        "state": "Indiana",
+        "country": "Taiwan"
+      },
+      "companySize": 8710,
+      "defaultCurrency": "COP",
+      "industry": "Electronics"
+    },
+    {
+      "companyName": "facilitate vertical ROI",
+      "companyLogo": "https://loremflickr.com/640/480?lock=8244989294012928",
+      "companyEmail": "Dante_Daniel63@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Greenmouth",
+        "state": "Oregon",
+        "country": "Marshall Islands"
+      },
+      "companySize": 2110,
+      "defaultCurrency": "IDR",
+      "industry": "Baby"
+    },
+    {
+      "companyName": "aggregate collaborative portals",
+      "companyLogo": "https://loremflickr.com/640/480?lock=1569332087326720",
+      "companyEmail": "Kattie.Morissette20@yahoo.com",
+      "companyHeadquarters": {
+        "city": "Wymanland",
+        "state": "Arkansas",
+        "country": "Greenland"
+      },
+      "companySize": 5432,
+      "defaultCurrency": "MKD",
+      "industry": "Shoes"
+    }]}
