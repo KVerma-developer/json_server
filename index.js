@@ -1,32 +1,23 @@
-const express = require("express");
-const jsonServer = require("json-server");
 
-const app = express();
+const jsonServer = require("json-server");
+const server = jsonServer.create();
+const middlewares = jsonServer.defaults();
+
+
+
 const port = process.env.PORT || 8080;
+server.use(middlewares);
 
 // JSON Server Routers
 const router1 = jsonServer.router("companyDetails.json");
 const router2 = jsonServer.router("otherData.json");
 const router3 = jsonServer.router("hr&CompanyContainer.json");
 
-// Enable CORS for both routers
-app.use("/api", (req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header(
-    "Access-Control-Allow-Headers",
-    "Origin, X-Requested-With, Content-Type, Accept"
-  );
-  next();
-});
+server.use("/api", router1);
+server.use("/api2", router2);
+server.use("/hrAndCompany", router3);
 
-// Mount the JSON Server Routers
-app.use("/api", router1);
-app.use("/api2", router2);
-app.use("/hrAndCompany", router3);
-
-app.listen(port, () => {
-  console.log(`JSON Server is running on port ${port}`);
-});
+server.listen(port);
 
 
 // const jsonServer = require("json-server"); // importing json-server library
