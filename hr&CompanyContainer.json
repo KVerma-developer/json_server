@@ -1117,5 +1117,278 @@
               "cashAdvanceRejectionReason": "",
               "additionalCashAdvanceField": ""
             }
-          ]
+          ],
+          "trip":[{
+            "id": 1,
+            "tenantId": "tenant1",
+            "tenantName": "Tenant A",
+            "travelRequestId": "tenant1_createdBy_tr_1",
+            "travelRequestStatus": "approved",
+            "travelRequestState": "section 0",
+            "createdBy": "employee1",
+            "createdFor": ["employee1", "employee2"],
+            "travelAllocationHeaders": [
+              {
+                "headerName": "Header 1",
+                "values": [
+                  {
+                    "valueName": "Value 1",
+                    "percentage": 50
+                  },
+                  {
+                    "valueName": "Value 2",
+                    "percentage": 50
+                  }
+                ]
+              }
+            ],
+            "itinerary": {
+              "departureCity": "City A",
+              "arrivalCity": "City B",
+              "departureDate": "2023-09-15T10:00:00Z",
+              "returnDate": "2023-09-20T15:00:00Z",
+              "hotels": ["Hotel X", "Hotel Y"],
+              "cabs": ["Cab A", "Cab B"],
+              "flights": ["Flight 1", "Flight 2"]
+            },
+            "travelDocuments": ["Document 1", "Document 2"],
+            "bookings": [
+              {
+                "vendorName": "Vendor A",
+                "billNumber": "12345",
+                "billDescription": "Hotel Booking",
+                "grossAmount": 500,
+                "taxes": 50,
+                "date": "2023-09-14T12:00:00Z",
+                "imageUrl": "https://example.com/image1.jpg"
+              }
+            ],
+            "approvers": ["approver1", "approver2"],
+            "preferences": ["Preference 1", "Preference 2"],
+            "travelViolations": [],
+            "travelRequestDate": "2023-09-10T09:00:00Z",
+            "travelBookingDate": "2023-09-12T14:00:00Z",
+            "travelCompletionDate": null,
+            "travelRequestRejectionReason": "",
+            "travelAndNonTravelPolicies": {
+              "travelPolicy": {
+                "InternationalPolicy": {},
+                "domesticPolicy": {},
+                "localPolicy": {}
+              },
+              "nonTravelPolicy": {}
+            },
+            "tAndEFlag": "Yes",
+            "inTransit": "Yes", 
+            "ignoreApprovalProcessForPriorityCashAdvance": "Yes"
+          },
+          
+          
+          
+          
+          
+          
+          {
+            "id": 1,
+            "tenantId": "tenant1",
+            "tenantName": "Tenant A",
+            "travelRequestId": "tenant1_createdBy_tr_1",
+            "travelRequestStatus": "approved",
+            "travelRequestState": "section 0",
+            "createdBy": "employee1",
+            "createdFor": ["employee1", "employee2"],
+            "travelAllocationHeaders": [
+              {
+                "headerName": "Header 1",
+                "values": [
+                  {
+                    "valueName": "Value 1",
+                    "percentage": 50
+                  },
+                  {
+                    "valueName": "Value 2",
+                    "percentage": 50
+                  }
+                ]
+              }
+            ],
+            "itinerary": {
+              "departureCity": "City A",
+              "arrivalCity": "City B",
+              "departureDate": "2023-09-15T10:00:00Z",
+              "returnDate": "2023-09-20T15:00:00Z",
+              "hotels": ["Hotel X", "Hotel Y"],
+              "cabs": ["Cab A", "Cab B"],
+              "flights": ["Flight 1", "Flight 2"]
+            },
+            "travelDocuments": ["Document 1", "Document 2"],
+            "bookings": [
+              {
+                "vendorName": "Vendor A",
+                "billNumber": "12345",
+                "billDescription": "Hotel Booking",
+                "grossAmount": 500,
+                "taxes": 50,
+                "date": "2023-09-14T12:00:00Z",
+                "imageUrl": "https://example.com/image1.jpg"
+              }
+            ],
+            "approvers": ["approver1", "approver2"],
+            "preferences": ["Preference 1", "Preference 2"],
+            "travelViolations": [],
+            "travelRequestDate": "2023-09-10T09:00:00Z",
+            "travelBookingDate": "2023-09-12T14:00:00Z",
+            "travelCompletionDate": null,
+            "travelRequestRejectionReason": "",
+            "travelAndNonTravelPolicies": {
+              "travelPolicy": {
+                "InternationalPolicy": {},
+                "domesticPolicy": {},
+                "localPolicy": {}
+              },
+              "nonTravelPolicy": {}
+            },
+            "tAndEFlag": "No",
+            "inTransit": "Yes",
+            "ignoreApprovalProcessForPriorityCashAdvance": "Yes"
+          },
+          
+          
+          
+          
+          
+          {
+            "id": 1,
+            "tenantId": "tenant1",
+            "tenantName": "Tenant A",
+            "travelRequestId": "tenant1_createdBy_tr_1",
+            "travelRequestStatus": "approved",
+            "travelRequestState": "section 0",
+            "createdBy": "employee1",
+            "createdFor": ["employee1", "employee2"],
+            "travelAllocationHeaders": [
+              {
+                "headerName": "Header 1",
+                "values": [
+                  {
+                    "valueName": "Value 1",
+                    "percentage": 50
+                  },
+                  {
+                    "valueName": "Value 2",
+                    "percentage": 50
+                  }
+                ]
+              }
+            ],
+            "itinerary": {
+              "departureCity": "City A",
+              "arrivalCity": "City B",
+              "departureDate": "2023-09-15T10:00:00Z",
+              "returnDate": "2023-09-20T15:00:00Z",
+              "hotels": ["Hotel X", "Hotel Y"],
+              "cabs": ["Cab A", "Cab B"],
+              "flights": ["Flight 1", "Flight 2"]
+            },
+            "travelDocuments": ["Document 1", "Document 2"],
+            "bookings": [
+              {
+                "vendorName": "Vendor A",
+                "billNumber": "12345",
+                "billDescription": "Hotel Booking",
+                "grossAmount": 500,
+                "taxes": 50,
+                "date": "2023-09-14T12:00:00Z",
+                "imageUrl": "https://example.com/image1.jpg"
+              }
+            ],
+            "approvers": ["approver1", "approver2"],
+            "preferences": ["Preference 1", "Preference 2"],
+            "travelViolations": [],
+            "travelRequestDate": "2023-09-10T09:00:00Z",
+            "travelBookingDate": "2023-09-12T14:00:00Z",
+            "travelCompletionDate": null,
+            "travelRequestRejectionReason": "",
+            "travelAndNonTravelPolicies": {
+              "travelPolicy": {
+                "InternationalPolicy": {},
+                "domesticPolicy": {},
+                "localPolicy": {}
+              },
+              "nonTravelPolicy": {}
+            },
+            "tAndEFlag": "Yes",
+            "inTransit": "No", 
+            "ignoreApprovalProcessForPriorityCashAdvance": "Yes"
+          },
+          
+          
+          
+          
+          
+          
+          {
+            "id": 1,
+            "tenantId": "tenant1",
+            "tenantName": "Tenant A",
+            "travelRequestId": "tenant1_createdBy_tr_1",
+            "travelRequestStatus": "approved",
+            "travelRequestState": "section 0",
+            "createdBy": "employee1",
+            "createdFor": ["employee1", "employee2"],
+            "travelAllocationHeaders": [
+              {
+                "headerName": "Header 1",
+                "values": [
+                  {
+                    "valueName": "Value 1",
+                    "percentage": 50
+                  },
+                  {
+                    "valueName": "Value 2",
+                    "percentage": 50
+                  }
+                ]
+              }
+            ],
+            "itinerary": {
+              "departureCity": "City A",
+              "arrivalCity": "City B",
+              "departureDate": "2023-09-15T10:00:00Z",
+              "returnDate": "2023-09-20T15:00:00Z",
+              "hotels": ["Hotel X", "Hotel Y"],
+              "cabs": ["Cab A", "Cab B"],
+              "flights": ["Flight 1", "Flight 2"]
+            },
+            "travelDocuments": ["Document 1", "Document 2"],
+            "bookings": [
+              {
+                "vendorName": "Vendor A",
+                "billNumber": "12345",
+                "billDescription": "Hotel Booking",
+                "grossAmount": 500,
+                "taxes": 50,
+                "date": "2023-09-14T12:00:00Z",
+                "imageUrl": "https://example.com/image1.jpg"
+              }
+            ],
+            "approvers": ["approver1", "approver2"],
+            "preferences": ["Preference 1", "Preference 2"],
+            "travelViolations": [],
+            "travelRequestDate": "2023-09-10T09:00:00Z",
+            "travelBookingDate": "2023-09-12T14:00:00Z",
+            "travelCompletionDate": null,
+            "travelRequestRejectionReason": "",
+            "travelAndNonTravelPolicies": {
+              "travelPolicy": {
+                "InternationalPolicy": {},
+                "domesticPolicy": {},
+                "localPolicy": {}
+              },
+              "nonTravelPolicy": {}
+            },
+            "tAndEFlag": "Yes",
+            "inTransit": "Yes", 
+            "ignoreApprovalProcessForPriorityCashAdvance": "No"
+          }]
 }
