@@ -1,4 +1,4 @@
-[
+{"travelRequest":[
     {
     "tenantId": "tenant123",
     "travelRequestId": "tenant123_emp000121_tr_001",
@@ -588,4 +588,4 @@
     "travelRequestRejectionReason": "Not approved due to budget constraints"
   }
 ]
-  
+  }
